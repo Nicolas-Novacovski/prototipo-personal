@@ -1,0 +1,6 @@
+{
+  "name": "Personal Trainer Pro",
+  "description": "Landing page de alta conversão para personal trainer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
